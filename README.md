@@ -1,3 +1,3 @@
 bmgy.github.io
 ==============
-bmgy.github.io site codes ~
+The site of bmgy.github.io ~
